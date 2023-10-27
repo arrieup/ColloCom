@@ -1,8 +1,8 @@
 package main
 
 import (
-	"arrieup/collocom/database"
-	"arrieup/collocom/server"
+	"arrieup/collocom/serverside/database"
+	"arrieup/collocom/serverside/server"
 	"fmt"
 	"log"
 	"net/http"

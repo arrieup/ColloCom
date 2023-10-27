@@ -1,4 +1,4 @@
-module arrieup/collocom
+module arrieup/collocom/serverside
 
 go 1.21.3
 

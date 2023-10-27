@@ -1,7 +1,7 @@
 package database
 
 import (
-	"arrieup/collocom/user"
+	"arrieup/collocom/serverside/user"
 	"database/sql"
 	"fmt"
 	"log"
